@@ -1,0 +1,15 @@
+C:\projetos\csharpEstudos\Balta\bin\Debug\net7.0\Balta.exe
+C:\projetos\csharpEstudos\Balta\bin\Debug\net7.0\Balta.deps.json
+C:\projetos\csharpEstudos\Balta\bin\Debug\net7.0\Balta.runtimeconfig.json
+C:\projetos\csharpEstudos\Balta\bin\Debug\net7.0\Balta.dll
+C:\projetos\csharpEstudos\Balta\bin\Debug\net7.0\Balta.pdb
+C:\projetos\csharpEstudos\Balta\obj\Debug\net7.0\Balta.csproj.AssemblyReference.cache
+C:\projetos\csharpEstudos\Balta\obj\Debug\net7.0\Balta.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\csharpEstudos\Balta\obj\Debug\net7.0\Balta.AssemblyInfoInputs.cache
+C:\projetos\csharpEstudos\Balta\obj\Debug\net7.0\Balta.AssemblyInfo.cs
+C:\projetos\csharpEstudos\Balta\obj\Debug\net7.0\Balta.csproj.CoreCompileInputs.cache
+C:\projetos\csharpEstudos\Balta\obj\Debug\net7.0\Balta.dll
+C:\projetos\csharpEstudos\Balta\obj\Debug\net7.0\refint\Balta.dll
+C:\projetos\csharpEstudos\Balta\obj\Debug\net7.0\Balta.pdb
+C:\projetos\csharpEstudos\Balta\obj\Debug\net7.0\Balta.genruntimeconfig.cache
+C:\projetos\csharpEstudos\Balta\obj\Debug\net7.0\ref\Balta.dll
